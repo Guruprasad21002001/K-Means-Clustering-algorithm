@@ -55,8 +55,8 @@ print('The cluster group for Applicant Income 9000 and Loanamount 150 :' ,predic
 
 ```
 ## Output:
-![](./s8.png)
-![](./s9.png)
+![.](./s8.png)
+![.](./s9.png)
 
 
 ## Result
